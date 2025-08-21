@@ -7,7 +7,7 @@ from opencensus.trace.tracer import Tracer
 import logging
 
 # Connection String do Application Insights
-connection_string = "InstrumentationKey=67fa08b2-d554-4775-8e2b-dbc36e8a73c3"
+connection_string = "InstrumentationKey=24d4b622-db85-4c0e-a731-0676dc9078a6"
 
 # Configurações de telemetria
 tracer = Tracer(
