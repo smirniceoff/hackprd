@@ -6,7 +6,7 @@ from opencensus.ext.azure.log_exporter import AzureLogHandler
 import logging
 
 # Connection String do Application Insights
-connection_string = "InstrumentationKey=24d4b622-db85-4c0e-a731-0676dc9078a6"
+connection_string = "InstrumentationKey=b17faf91-c686-4c08-8dc1-753123f1c72b"
 
 # Configurações
 tracer = Tracer(
