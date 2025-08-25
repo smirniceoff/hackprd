@@ -4,7 +4,7 @@ import requests
 from datetime import datetime, timezone
 
 # Instrumentation Key extraída da Connection String
-instrumentation_key = "24d4b622-db85-4c0e-a731-0676dc9078a6"
+instrumentation_key = "b17faf91-c686-4c08-8dc1-753123f1c72b"
 
 # Endpoint fixo da API REST do App Insights
 endpoint = "https://dc.services.visualstudio.com/v2/track"
